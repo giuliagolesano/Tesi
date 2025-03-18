@@ -53,8 +53,6 @@ Secondo una ricerca dell'università di Yale, realizzata con SeriuosFun Children
 
 
 
-
-
 **Bibliografia e sitografia**
 - https://back.dynamocamp.org/uploads/2024/10/Dynamo-Camp-Sintesi.doc
 - https://www.holeinthewallgang.org/Customer-Content/www/CMS/files/Program-Impact-Research/2014_Yale_SFCN_study_summary_with_HITW_appendix.pdf
