@@ -80,7 +80,7 @@ Il coding diventa una palestra di logica per tutti. Il coding a scuola sta gradu
 Uno dei punti salienti della legge della "Buona scuola" riguarda proprio il pensiero computazionale, il coding e le cosiddette competenze digitali. Lo scopo della riforma è dare spazio all'educazione, ai corretti stili di vita, alla cittadinanza attiva, all'educazione ambientale e guardare al domani attraverso lo sviluppo delle competenze digitali degli studenti.
 *#TODO si parla di inclusione?*
 
-**Bibliografia**
+**Bibliografia e sitografia**
 - Papert Seymour, Mindstorms: Children, computers, and powerful ideas.
 - Wing Jaennette, Computational thinking - Communications of the ACM.
 - Stacie Slotnick, In memory of Seymour Papert.
